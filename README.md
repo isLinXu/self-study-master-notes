@@ -1,2 +1,2 @@
-# self-study-master-notes
-Self-Study Master Course Notes
+# selfstudy-cs-master-notes
+Self-Study CS Master Course Notes
